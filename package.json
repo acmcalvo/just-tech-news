@@ -30,9 +30,9 @@
     "seed": "^0.4.4",
     "sequelize": "^6.14.0"
   },
-  "description": "",
   "devDependencies": {
     "db-seed": "^1.2.0",
     "jest": "^27.4.7"
-  }
+  },
+  "description": ""
 }
